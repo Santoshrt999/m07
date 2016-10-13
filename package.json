@@ -9,10 +9,10 @@
         "ejs": "latest"
     },
     "author": "Denise Case",
-    "homepage": "https://bitbucket.org/professorcase/m07",
+    "homepage": "https://bitbucket.org/professorcase/w07",
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/professorcase/m07"
+        "url": "https://bitbucket.org/professorcase/w07"
     },
      "license": "Apache-2.0"
 }
