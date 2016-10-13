@@ -1,4 +1,4 @@
-{   "name": "w07",
+{   "name": "m07",
     "version": "0.0.1",
     "description": "simple guestbook app",
     "main": "gbapp.js",
@@ -9,10 +9,10 @@
         "ejs": "latest"
     },
     "author": "Denise Case",
-    "homepage": "https://bitbucket.org/professorcase/w07",
+    "homepage": "https://bitbucket.org/professorcase/m07",
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/professorcase/w07"
+        "url": "https://bitbucket.org/professorcase/m07"
     },
      "license": "Apache-2.0"
 }
