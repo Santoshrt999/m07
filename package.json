@@ -1,4 +1,4 @@
-{   "name": "m07",
+{   "name": "w07",
     "version": "0.0.1",
     "description": "simple guestbook app",
     "main": "gbapp.js",
@@ -8,11 +8,11 @@
         "body-parser": "latest",
         "ejs": "latest"
     },
-    "author": "Denise Case",
-    "homepage": "https://bitbucket.org/professorcase/m07",
+    "author": "DSantosh Ravi Teja",
+    "homepage": "https://bitbucket.org/Santoshrt999/w07",
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/professorcase/m07"
+        "url": "https://bitbucket.org/Santoshrt999/w07"
     },
      "license": "Apache-2.0"
 }
